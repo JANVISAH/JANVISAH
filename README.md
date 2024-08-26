@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janvi Sah</h1>
-<h3 align="left">I am a 4th-year B.Tech Computer Science and Engineering student with a strong foundation in computer science fundamentals. Proficient in C++ and skilled in implementing data structures and algorithms. I am eager to learn and leverage my capabilities to make impactful contributions to your team’s dynamic projects.</h3></br>
+<h3 align="left">I am a B.Tech Computer Science and Engineering graduate with a strong foundation in computer science fundamentals. Proficient in C++ and skilled in implementing data structures and algorithms. I am eager to learn and leverage my capabilities to make impactful contributions to your team’s dynamic projects.</h3></br>
 
 - 🤝 I’m looking for a full time opportunity as **Software Developer.**
 
